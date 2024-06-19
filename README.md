@@ -36,3 +36,4 @@ b.	Distribution of skills and technologies preferred by data professionals.
 c.	Challenges faced by data professionals in their roles.
 d.	Demographic breakdown of survey participants (e.g., age, gender, location).
 
+![image](https://github.com/akshinth/power-bi-project/assets/108680058/e766a709-a974-44f4-a8c1-fd3f547a3cb6)
